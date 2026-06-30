@@ -1,6 +1,6 @@
 # 🛢️ WTI Price Prediction
 
-## ‼️‼️‼️ Archived Project from 2021 (No Longer Compatible)
+## ‼️ Archived Project from 2021 (No Longer Compatible)
 
 This project uses **machine learning** to predict the **WTI crude oil index** based on historical WTI prices and the NYSE Index.  
 It collects real-world financial data from Yahoo Finance, stores it in a **MySQL database**, and then trains a simple **Decision Tree Classifier** to make predictions.
